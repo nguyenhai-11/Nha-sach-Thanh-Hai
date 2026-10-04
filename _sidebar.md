@@ -1,4 +1,5 @@
-* [Trang Chủ](/)
+* [Trang Chủ]
+  * [ Danh mục Sách ](Danh-muc-sach.md)
 * **Giỏ hàng & Thanh toán**
   * [Quản lý giỏ hàng](quan-ly-gio-hang.md)
   * [Thanh toán trực tuyến](Thanh-toan.md)
