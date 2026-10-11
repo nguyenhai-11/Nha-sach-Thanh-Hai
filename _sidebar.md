@@ -13,3 +13,5 @@
   * [Đánh giá](Đanh-gia.md)
 * **Liên Hệ**
   * [Thông tin hỗ trợ](lien-he.md)
+  * [Hỗ trợ kỹ thuật](ho-tro.md)
+    
